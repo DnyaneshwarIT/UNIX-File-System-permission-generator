@@ -27,5 +27,5 @@ Insert gif or link to demo
 
 ## Preview Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/DnyaneshwarIT/UNIX-File-System-permission-generator/blob/main/assets/Screenshot.png)https://github.com/DnyaneshwarIT/UNIX-File-System-permission-generator/blob/main/assets/Screenshot.png)
 
